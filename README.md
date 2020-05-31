@@ -6,5 +6,6 @@
 <a href="https://github.com/Himanshu3tech/Text_Editor/blob/master/LICENSE"><img alt="Github License" src="https://img.shields.io/github/license/Himanshu3tech/Text_Editor"></a>
 </div>
 
+A basic text editor made by using python tkinter.
 
 <img src="https://raw.githubusercontent.com/shibi391/Text_Editor/master/1.ico">
