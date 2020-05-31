@@ -6,4 +6,4 @@
 <a href="https://github.com/Himanshu3tech/Text_Editor/blob/master/LICENSE"><img alt="Github License" src="https://img.shields.io/github/license/Himanshu3tech/Text_Editor"></a>
 </div>
 
-[![image](https://raw.githubusercontent.com/shibi391/Text_Editor/master/1.ico)]
+(https://raw.githubusercontent.com/shibi391/Text_Editor/master/1.ico)
